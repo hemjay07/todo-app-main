@@ -86,6 +86,7 @@ body {
   padding: 0.5rem 0;
   width: 70%;
   margin: 0.5rem;
+  line-height: 1.5;
 }
 .cancelled {
   padding: 0 1rem;
@@ -206,5 +207,4 @@ input{
   border-radius: 5px;
   font-family: "Josefin Sans", sans-serif;
   font-size: 1rem;
-  
 }
