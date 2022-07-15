@@ -2,6 +2,9 @@
 
 This is a solution to the [Todo app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW). 
 
+##Overview
+The todo list app is a well recommended project for beginners to help practice concepts they've learnt. Its graded as an intermediate level project by front end mentor meaning that its quite challenging. This project helped me better understand how to dynamically create elements using javascript, working with local storage and so much more. I also had plenty practice of css flexbox and so many other things.
+
 ### The challenge
 
 Users should be able to:
@@ -21,7 +24,7 @@ Users should be able to:
  
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/hemjay07/todo-app-main]
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 
@@ -31,7 +34,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
--javascript 
+-javascript array methods and callback functions
 -local storage
 
 
