@@ -35,8 +35,8 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
--javascript array methods and callback functions
--local storage
+- javascript array methods and callback functions
+- local storage
 
 
 ### What I learned
